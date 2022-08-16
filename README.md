@@ -2,6 +2,8 @@
 This is a program that provides a way to store and retrieve telephone numbers. The user will use a binary search tree for this.
 
 The user interface provides the following operations: 
+
+
 • Add a contact: Adds a person’s name and phone number to the phone book. 
 • Delete a contact: Deletes a given person’s name and phone number from the phone book, 
 given only the name.  
